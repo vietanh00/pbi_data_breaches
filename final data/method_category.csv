@@ -1,0 +1,15 @@
+Method,Category
+accidentally published,negligence
+hacked,hacked
+improper setting / hacked,hacked
+inside job,bad actor
+intentionally lost,bad actor
+lost / stolen computer,negligence
+lost / stolen media,negligence
+misconfiguration,security exploit
+poor security,security exploit
+rogue contractor,bad actor
+social engineering,bad actor
+unknown,other
+unprotected api,security exploit
+ransomware hacked,hacked
